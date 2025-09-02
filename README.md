@@ -1,6 +1,6 @@
 # Task Management App – Clean Architecture Sample
 
-A small but realistic **.NET 9 + React** application built as part of a technical assessment.  
+A small but realistic **.NET 9 + React** application built as part of a technical assessment to manage tasks.  
 It demonstrates a practical approach to **Clean Architecture**, **DDD-inspired modeling**, and **CQRS**.
 
 ---

@@ -13,14 +13,14 @@ public class ProjectsController : ControllerBase
 
     public ProjectsController(IMediator mediator) => _mediator = mediator;
 
-    [HttpPost("Create new project")]
+    [HttpPost]
     public async Task<IActionResult> Create([FromBody] CreateProjectCommand command)
     {
         var project = await _mediator.Send(command);
         return Ok(project);
     }
 
-    [HttpGet("List of projects")]
+    [HttpGet]
     public async Task<IActionResult> GetAll()
     {
         var projects = await _mediator.Send(new GetProjectsQuery());

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dafPrbBsRFA=",
+  "dgSpecHash": "2EHf1d3BMpE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NZ\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\NZ\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

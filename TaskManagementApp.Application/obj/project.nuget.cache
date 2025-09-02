@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGYOr5yVz3I=",
+  "dgSpecHash": "9ti+pN1z+ek=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\TaskManagementApp.Application.csproj",
+  "projectFilePath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\TaskManagementApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NZ\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\NZ\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",

@@ -15,7 +15,7 @@ public class TasksController : ControllerBase
 
     public TasksController(IMediator mediator) => _mediator = mediator;
 
-    [HttpPost("Create new task")]
+    [HttpPost]
     public async Task<IActionResult> CreateTask([FromBody] CreateTaskCommand command)
     {
         var result = await _mediator.Send(command);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d3pTxTkR3Bo=",
+  "dgSpecHash": "v83PDnr4JlI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NZ\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\NZ\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -4534,11 +4534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj",
       "projectName": "TaskManagementApp.Infrastructure",
-      "projectPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\NZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4560,11 +4560,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\TaskManagementApp.Application.csproj": {
-              "projectPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\TaskManagementApp.Application.csproj"
+            "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\TaskManagementApp.Application.csproj": {
+              "projectPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\TaskManagementApp.Application.csproj"
             },
-            "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj"
+            "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj"
             }
           }
         }

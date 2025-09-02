@@ -1,93 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\",
+  "WorkspaceRootPath": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.api\\taskmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\taskmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7DA873F-8C52-4C1D-88FB-839E751F8BD6}|TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.api\\taskmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\taskmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DA873F-8C52-4C1D-88FB-839E751F8BD6}|TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7DA873F-8C52-4C1D-88FB-839E751F8BD6}|TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj|solutionrelative:taskmanagementapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\queries\\gettasksbyprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\queries\\gettasksbyprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\queries\\gettasksbyprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\queries\\gettasksbyprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\queries\\gettasksbyprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\queries\\gettasksbyprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\queries\\getprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\queries\\getprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\queries\\getprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\queries\\getprojectshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\queries\\getprojectshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\queries\\getprojectshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.tests\\createtaskcommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.tests\\createtaskcommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|solutionrelative:taskmanagementapp.tests\\createtaskcommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.tests\\createtaskhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.tests\\createtaskhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|solutionrelative:taskmanagementapp.tests\\createtaskhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.tests\\getprojectsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.tests\\getprojectsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|solutionrelative:taskmanagementapp.tests\\getprojectsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.tests\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.tests\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|solutionrelative:taskmanagementapp.tests\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\validators\\createtaskcommandvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\validators\\createtaskcommandvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\validators\\createtaskcommandvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\validators\\createprojectcommandvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\validators\\createprojectcommandvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\validators\\createprojectcommandvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.tests\\taskmanagementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.tests\\taskmanagementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{29E622D8-5638-48DC-B26D-2C8FD10BDE95}|TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj|solutionrelative:taskmanagementapp.tests\\taskmanagementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.application\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.application\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA68ED4-D014-41CF-954F-D87B4EFE7208}|TaskManagementApp.Application\\TaskManagementApp.Application.csproj|solutionrelative:taskmanagementapp.application\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7DA873F-8C52-4C1D-88FB-839E751F8BD6}|TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.domain\\taskmanagementapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E7DA873F-8C52-4C1D-88FB-839E751F8BD6}|TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.domain\\taskmanagementapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E7DA873F-8C52-4C1D-88FB-839E751F8BD6}|TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj|solutionrelative:taskmanagementapp.domain\\taskmanagementapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD301E7-1812-4491-B9D4-ACFE626B8B62}|TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DD301E7-1812-4491-B9D4-ACFE626B8B62}|TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DD301E7-1812-4491-B9D4-ACFE626B8B62}|TaskManagementApp.Infrastructure\\TaskManagementApp.Infrastructure.csproj|solutionrelative:taskmanagementapp.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\taskmanagementapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|c:\\users\\nz\\desktop\\dotnet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskmanagerapp\\taskmanagementapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A227D015-6A86-4FA9-BC2A-B76C13C4DD6B}|TaskManagementApp.API\\TaskManagementApp.API.csproj|solutionrelative:taskmanagementapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,41 +98,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Class1.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Class1.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T00:28:18.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T00:28:18.614Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GetTasksByProjectQuery.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetTasksByProjectQuery.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetTasksByProjectQuery.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Queries\\GetTasksByProjectQuery.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetTasksByProjectQuery.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetTasksByProjectQuery.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Queries\\GetTasksByProjectQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T10:59:38.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T10:59:38.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "GetProjectsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetProjectsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetProjectsQuery.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Queries\\GetProjectsQuery.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetProjectsQuery.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetProjectsQuery.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Queries\\GetProjectsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GetProjectsHandler.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetProjectsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetProjectsHandler.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Queries\\GetProjectsHandler.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetProjectsHandler.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetProjectsHandler.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Queries\\GetProjectsHandler.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\Controllers\\TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.API\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\Controllers\\TasksController.cs*",
-              "RelativeToolTip": "TaskManagementApp.API\\Controllers\\TasksController.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementApp.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T10:57:01.782Z",
               "EditorCaption": ""
@@ -167,22 +169,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\Controllers\\ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.API\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\Controllers\\ProjectsController.cs*",
-              "RelativeToolTip": "TaskManagementApp.API\\Controllers\\ProjectsController.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "TaskManagementApp.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T14:06:31.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TaskManagementApp.API.csproj",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\TaskManagementApp.API.csproj",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\TaskManagementApp.API.csproj",
               "RelativeDocumentMoniker": "TaskManagementApp.API\\TaskManagementApp.API.csproj",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\TaskManagementApp.API.csproj",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\TaskManagementApp.API.csproj",
               "RelativeToolTip": "TaskManagementApp.API\\TaskManagementApp.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -193,26 +195,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Domain\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Domain\\Class1.cs",
               "RelativeToolTip": "TaskManagementApp.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T00:28:41.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-09-02T00:28:41.176Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "GetTasksByProjectHandler.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetTasksByProjectHandler.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetTasksByProjectHandler.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Queries\\GetTasksByProjectHandler.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Queries\\GetTasksByProjectHandler.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Queries\\GetTasksByProjectHandler.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Queries\\GetTasksByProjectHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "TaskItemTests.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\TaskItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\TaskItemTests.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Tests\\TaskItemTests.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\TaskItemTests.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\TaskItemTests.cs",
               "RelativeToolTip": "TaskManagementApp.Tests\\TaskItemTests.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "CreateProjectCommandValidators.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Validators\\CreateProjectCommandValidators.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Validators\\CreateProjectCommandValidators.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Validators\\CreateProjectCommandValidators.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Validators\\CreateProjectCommandValidators.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Validators\\CreateProjectCommandValidators.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Validators\\CreateProjectCommandValidators.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +243,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "GetProjectsQueryHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\GetProjectsQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\GetProjectsQueryHandlerTests.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Tests\\GetProjectsQueryHandlerTests.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\GetProjectsQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\GetProjectsQueryHandlerTests.cs",
               "RelativeToolTip": "TaskManagementApp.Tests\\GetProjectsQueryHandlerTests.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CreateTaskHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\CreateTaskHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\CreateTaskHandlerTests.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Tests\\CreateTaskHandlerTests.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\CreateTaskHandlerTests.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\CreateTaskHandlerTests.cs",
               "RelativeToolTip": "TaskManagementApp.Tests\\CreateTaskHandlerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,9 +267,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CreateTaskCommandValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\CreateTaskCommandValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\CreateTaskCommandValidatorTests.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Tests\\CreateTaskCommandValidatorTests.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\CreateTaskCommandValidatorTests.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\CreateTaskCommandValidatorTests.cs",
               "RelativeToolTip": "TaskManagementApp.Tests\\CreateTaskCommandValidatorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "CreateTaskCommandValidators.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Validators\\CreateTaskCommandValidators.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Validators\\CreateTaskCommandValidators.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\Validators\\CreateTaskCommandValidators.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\Validators\\CreateTaskCommandValidators.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\Validators\\CreateTaskCommandValidators.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\Validators\\CreateTaskCommandValidators.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -294,21 +291,22 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "TaskManagementApp.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
               "RelativeDocumentMoniker": "TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
               "RelativeToolTip": "TaskManagementApp.Tests\\TaskManagementApp.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-29T10:31:56.424Z"
+              "WhenOpened": "2025-08-29T10:31:56.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "TaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\DTOs\\TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\DTOs\\TaskDto.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\DTOs\\TaskDto.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\DTOs\\TaskDto.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\DTOs\\TaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,9 +316,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ProjectDto.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\DTOs\\ProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\DTOs\\ProjectDto.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Application\\DTOs\\ProjectDto.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Application\\DTOs\\ProjectDto.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Application\\DTOs\\ProjectDto.cs",
               "RelativeToolTip": "TaskManagementApp.Application\\DTOs\\ProjectDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,21 +328,22 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "TaskManagementApp.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj",
               "RelativeDocumentMoniker": "TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj",
               "RelativeToolTip": "TaskManagementApp.Domain\\TaskManagementApp.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-28T12:40:43.176Z"
+              "WhenOpened": "2025-08-28T12:40:43.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "TaskManagementApp.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\appsettings.json",
               "RelativeToolTip": "TaskManagementApp.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -354,9 +353,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Infrastructure\\Persistence\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeToolTip": "TaskManagementApp.Infrastructure\\Persistence\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -366,9 +365,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagementApp.API\\Program.cs",
-              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-main\\TaskManagementApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\NZ\\Desktop\\DotNet chalenge\\dotnet-clean-architecture-sample-main\\dotnet-clean-architecture-sample-taskManagerApp\\TaskManagementApp.API\\Program.cs",
               "RelativeToolTip": "TaskManagementApp.API\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
