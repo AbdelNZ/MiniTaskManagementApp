@@ -1,0 +1,38 @@
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.deps.json
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.runtimeconfig.json
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.dll
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.pdb
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Application.dll
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Domain.dll
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Application.pdb
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Domain.pdb
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.AssemblyInfo.cs
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskMana.C4BDB0B3.Up2Date
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.dll
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\refint\TaskManagementApp.Infrastructure.dll
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.pdb
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.genruntimeconfig.cache
+C:\Users\ziadh\Desktop\TaskManagementApp\TaskManagementApp.Infrastructure\obj\Debug\net9.0\ref\TaskManagementApp.Infrastructure.dll
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.deps.json
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.runtimeconfig.json
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.dll
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Infrastructure.pdb
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Application.dll
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Domain.dll
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Application.pdb
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\bin\Debug\net9.0\TaskManagementApp.Domain.pdb
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.AssemblyInfo.cs
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskMana.C4BDB0B3.Up2Date
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.dll
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\refint\TaskManagementApp.Infrastructure.dll
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.pdb
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\TaskManagementApp.Infrastructure.genruntimeconfig.cache
+C:\Users\NZ\Desktop\DotNet chalenge\dotnet-clean-architecture-sample-main\dotnet-clean-architecture-sample-main\TaskManagementApp.Infrastructure\obj\Debug\net9.0\ref\TaskManagementApp.Infrastructure.dll

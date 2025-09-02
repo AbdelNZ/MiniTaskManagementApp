@@ -1,0 +1,31 @@
+version: '3.9'
+
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: taskapp_db
+    environment:
+      SA_PASSWORD: "CyberPassword877!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    networks:
+      - taskapp-network
+
+  api:
+    build:
+      context: .
+      dockerfile: TaskManagementApp.API/Dockerfile
+    container_name: taskapp_api
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=TaskApp;User Id=sa;Password=CyberPassword877!
+    depends_on:
+      - db
+    ports:
+      - "5000:8080"
+    networks:
+      - taskapp-network
+
+networks:
+  taskapp-network:
+    driver: bridge
